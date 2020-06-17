@@ -1,4 +1,4 @@
-# Mark Down Examples
+# Markdown Examples
 
 - [Go To Read Me - 102](/README.md)
 ## This is some pratice markdown.
