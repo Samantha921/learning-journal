@@ -11,3 +11,4 @@ Table of Contents
 
 
 - [Mark down Examples from Class One - 102](/markdown examples.md)
+- [Read and Discuss from Class One - 102](/DISCUSSION.md)
